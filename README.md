@@ -69,6 +69,30 @@ _I'd love for you to make the most of this project - it's all about learning, he
      ```
 
 
+## Commands to contribute uing AWS EC2 instance 
+- Making directory
+     ```sh
+        mkdir <Directory name>
+     ```
+- Initialising git
+     ```sh
+        git init
+     ```
+- Check the status
+     ```sh
+        git status
+     ```
+- Add the file from the Working space to the Staging Area
+    ```sh
+       git add <filename>
+       git add . # TO add All file
+    ```
+- Commit to the file
+     ```sh
+        git commit -m "<Message>"
+     ```
+     
+
    
 
       
