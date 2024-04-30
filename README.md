@@ -20,4 +20,16 @@ _I'd love for you to make the most of this project - it's all about learning, he
    ```bash
    git clone https://github.com/{your-username}/Movie_Recommender_System.git
    ```
+2. **Add your fork as a local project:**
+
+   ```bash
+   # Using HTTPS
+   git clone https://github.com/YOUR-USERNAME/Movie_Recommender_System.git
+   ```
+   ```bash
+   # Using SSH
+   git clone git@github.com:YOUR-USERNAME/Moview_Recommender_System.git
+   ```
+   
+
 
