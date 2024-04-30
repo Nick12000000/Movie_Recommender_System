@@ -33,21 +33,43 @@ _I'd love for you to make the most of this project - it's all about learning, he
 3. **Add git remote controls:**
 
     ```bash
-     # Using HTTPS
-     git remote add fork https://github.com/YOUR-USERNAME/Movie_Recommender_System.git
-     git remote add upstream https://github.com/krishnaacharyaa/Movie_Recommender_System.git
+       # Using HTTPS
+       git remote add fork https://github.com/YOUR-USERNAME/Movie_Recommender_System.git
+       git remote add upstream https://github.com/krishnaacharyaa/Movie_Recommender_System.git
     ```
-  ```bash
+   ```bash
        # Using SSH
         git remote add fork git@github.com:YOUR-USERNAME/Movie_Recommender_System.git
         git remote add upstream git@github.com:krishnaacharyaa/Movie_Recommender_System.git
-   ```
+    ```
 
 4. **Verify that you have your two git remotes:**
 
     ```bash
       git remote -v
    ```
+5. **For every individual PR follow these 2 steps:**
+   - To stay up to date with the central repository:
+
+     ```sh
+     git pull upstream main
+     ```
+
+   - Checkout a private from your main Branch
+
+     ```sh
+     # Switch to the main branch
+     git switch main
+
+     # Pull down any upstream changes
+     git pull
+
+     # Create a new branch to work on
+     git switch --create bugfix/1234-name-of-the-issue
+     ```
+
+
+   
 
       
    
