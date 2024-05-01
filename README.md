@@ -2,7 +2,7 @@
 
 🎬 "Cinematic Companion" 🎬
 
-Discover your next favorite movie effortlessly with Cinematic Companion! 🌟 Powered by AI, this ultimate movie recommender system personalizes recommendations based on your unique tastes. 🤖 Whether you're into action-packed thrillers, heartwarming dramas, or side-splitting comedies, we've got something for everyone. 🍿 Say goodbye to endless scrolling and hello to movie magic! ✨ Join the adventure with Cinematic Companion today. 🎉
+Discover your next favorite movie effortlessly with Cinematic Companion! 🌟This ultimate movie recommender system personalizes recommendations based on your unique tastes. 🤖 Whether you're into action-packed thrillers, heartwarming dramas, or side-splitting comedies, we've got something for everyone. 🍿 Say goodbye to endless scrolling and hello to movie magic! ✨ Join the adventure with Cinematic Companion today. 🎉
 
 ## 🎯 Goal of this project
 
