@@ -51,22 +51,22 @@ _I'd love for you to make the most of this project - it's all about learning, he
 5. **For every individual PR follow these 2 steps:**
    - To stay up to date with the central repository:
 
-     ```sh
-     git pull upstream main
-     ```
+    ```sh
+    git pull upstream main
+    ```
 
-   - Checkout a private from your main Branch
+ - Checkout a private from your main Branch
 
-     ```sh
-     # Switch to the main branch
-     git switch main
+   ```sh
+   # Switch to the main branch
+   git switch main
 
-     # Pull down any upstream changes
-     git pull
+   # Pull down any upstream changes
+   git pull
 
-     # Create a new branch to work on
-     git switch --create bugfix/1234-name-of-the-issue
-     ```
+   # Create a new branch to work on
+   git switch --create bugfix/1234-name-of-the-issue
+   ```
 
 
 ## Commands to contribute uing AWS EC2 instance 
