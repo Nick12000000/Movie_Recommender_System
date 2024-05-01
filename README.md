@@ -57,7 +57,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 
 - Checkout a private from your main Branch
    
-      ```sh
+    ```sh
       # Switch to the main branch
       git switch main
    
@@ -66,7 +66,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    
       # Create a new branch to work on
       git switch --create bugfix/1234-name-of-the-issue
-      ```
+    ```
 
 
 ## Commands to contribute uing AWS EC2 instance 
