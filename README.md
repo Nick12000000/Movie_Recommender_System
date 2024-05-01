@@ -49,11 +49,11 @@ _I'd love for you to make the most of this project - it's all about learning, he
       git remote -v
    ```
 5. **For every individual PR follow these 2 steps:**
-   - To stay up to date with the central repository:
+- To stay up to date with the central repository:
 
-    ```sh
-    git pull upstream main
-    ```
+   ```sh
+   git pull upstream main
+ ```
 
  - Checkout a private from your main Branch
 
